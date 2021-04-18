@@ -1,2 +1,2 @@
 # courses-app-node-mongo
-лайт версия udemy 
+сайтик по продаже курсов
